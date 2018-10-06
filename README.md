@@ -1,9 +1,11 @@
+
 # QA
 
 https://www.cheatography.com/davidpol/cheat-sheets/testing-types/
 
 https://openconcept.ca/sites/openconcept/files/software_testing_cheat_sheet.pdf
 
+https://agiletester.ca/wp-content/uploads/sites/26/2017/07/TestPlanningCheatSheet.pdf
 
 #Mind Maps
 http://apps.testinsane.com/mindmaps/
