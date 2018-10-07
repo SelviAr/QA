@@ -1,4 +1,5 @@
 
+
 # Worldwide Software Testing Conferences
 https://qa-qcarena.blogspot.com/2017/12/worldwide-software-testing-conferences.html
 
