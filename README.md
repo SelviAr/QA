@@ -1,4 +1,7 @@
 
+# Worldwide Software Testing Conferences
+https://qa-qcarena.blogspot.com/2017/12/worldwide-software-testing-conferences.html
+
 http://automation-beyond.com/2011/04/19/functionality-testing-mindmap/
 https://qa-qcarena.blogspot.com/
 
