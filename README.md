@@ -1,4 +1,5 @@
 
+https://www.pinterest.com/pin/73113193921257363/?lp=true
 
 # Worldwide Software Testing Conferences
 https://qa-qcarena.blogspot.com/2017/12/worldwide-software-testing-conferences.html
@@ -151,7 +152,7 @@ https://www.pinterest.com/pin/130674826660507410/?lp=true
 
 
 http://apps.testinsane.com/mindmaps/heuristics-of-learning-a-product
-
+https://badootech.badoo.com/mind-maps-for-fast-and-effective-testing-30aab6bea6f4
 
 https://applause-prodmktg.s3.amazonaws.com/2017/02/20/08/12/21/d429b29a-64f3-41f2-b790-67edf575dc01/TestPlanningMindMap.png
 
