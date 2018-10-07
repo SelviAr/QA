@@ -8,6 +8,20 @@ https://www.biggerplate.com/mindmaps/gZNVW4lk/7-testing-principles-of-software-t
 
 http://apps.testinsane.com/mindmaps/bug-reporting
 
+https://qa-qcarena.blogspot.com/2017/12/software-testers-whats-your-new-year.html
+http://blog.practicingitpm.com/wp-content/uploads/blog.practicingitpm.com/2010/11/Project-Scope1.jpeg
+
+https://www.computersciencezone.org/software-quality-assurance/
+
+https://qa-qcarena.blogspot.com/2016/11/software-testing-mind-maps-test-design.html
+
+https://www.pinterest.com/pin/543528248770847922/?lp=true
+http://adventuresinqa.com/2016/01/11/mobile-testing-cheat-sheet/
+
+http://adventuresinqa.com/2016/05/30/smartwatch-testing-cheat-sheet/
+
+https://www.rogeriodasilva.com/software-testing-foundation-topic-cheat-sheet-istqb-iseb/
+
 https://www.mindmeister.com/92927976/software-testing
 
 https://www.pinterest.co.uk/biggerplate/mind-maps-for-software-testing/
