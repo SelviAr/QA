@@ -1,5 +1,4 @@
 
-
 1. General 
 2. Web Testing
 3. Mobile Testing
@@ -9,23 +8,27 @@
 
 * [Test Planning Model](http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png)
 
+# Web Testing
 * [Basics of Cross Browser Testing (Get started)](http://apps.testinsane.com/mindmaps/uploads/Cross%20Browser%20Compatibility%20Testing%20Basics%20-%20TestInsane%20-%20Santhosh%20Tuppad.png)
-
-
 * [Cookie Testing - A smart way to test cookies](http://apps.testinsane.com/mindmaps/uploads/Cookie%20Testing%20-%20Web%20and%20Mobile%20-%20Pranav%20KS%20-%20TestInsane%20.png)
-
+* [Usability Testing - What all matters?](http://apps.testinsane.com/mindmaps/uploads/USABILITY%20TESTING%20by%20Santhosh%20Tuppad%20-%20TestInsane.png)
 
 
 * [Communicating Testing During Software Development](http://apps.testinsane.com/mindmaps/uploads/W5H3-%20Communicating%20Testing%20during%20Software%20Development%20-%20Distributed%20by%20TestInsane.png)
 
-* [Usability Testing - What all matters?](http://apps.testinsane.com/mindmaps/uploads/USABILITY%20TESTING%20by%20Santhosh%20Tuppad%20-%20TestInsane.png)
+
+# Test Ideas
+* [37 Sources for Test Ideas](http://apps.testinsane.com/mindmaps/uploads/37%20Source%20for%20Test%20Ideas.png)
 
 
-* [Basics of Cross Browser Testing (Get started)](http://apps.testinsane.com/mindmaps/uploads/Cross%20Browser%20Compatibility%20Testing%20Basics%20-%20TestInsane%20-%20Santhosh%20Tuppad.png)
+* [Test Planning Model](http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png)
+
+## Testing Process - Bug Reporting
+* [Bug Reporting Etiquette](http://apps.testinsane.com/mindmaps/uploads/Bug%20Reporting%20Etiquette%20.png)
+* [Bug Reporting](http://apps.testinsane.com/mindmaps/uploads/Bug%20Reporting%20Mindmap.png)
 
 * [Learning MindMap by Pranav at TestInsane](http://apps.testinsane.com/mindmaps/uploads/My%20Learning%20in%20first%203%20months%20-%20Pranav%20KS%20-%20TestInsane.png)
 
-* [37 Sources for Test Ideas](http://apps.testinsane.com/mindmaps/uploads/37%20Source%20for%20Test%20Ideas.png)
 
 * [CrowdTesting & Freelancing - Software Testing](http://apps.testinsane.com/mindmaps/uploads/CrowdTesting%20-%20Freelancing%20-%20Software%20Testing.png)
 
@@ -41,13 +44,12 @@
 * [Heuristic Test Strategy Model - Functional Testing](http://apps.testinsane.com/mindmaps/uploads/FUNCTIONALITY-Heuristic-Test-Strategy-Model.png)
 
 
-* [Test Planning Model](http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png)
+
 
 * [Heuristics of Passionate Tester](http://apps.testinsane.com/mindmaps/uploads/Heuristics%20of%20Passionate%20Tester.png)
 
-* [Bug Reporting Etiquette](http://apps.testinsane.com/mindmaps/uploads/Bug%20Reporting%20Etiquette%20.png)
 
-* [Bug Reporting](http://apps.testinsane.com/mindmaps/uploads/Bug%20Reporting%20Mindmap.png)
+## Understanding Requirement
 
 Heuristics of learning a product
 http://apps.testinsane.com/mindmaps/uploads/Heuristics%20of%20Learning%20a%20Product.png
