@@ -1,6 +1,7 @@
 
 
 
+
 # Test Case Syntax
 
 Syntax:
@@ -19,8 +20,9 @@ Check with your test lead to choose one of the formats
 
 Example:
 
-//Test case to verify forename, surname, post code is displayed in accounts screen 
-verify the fields forename, surname, post code is displayed in accounts screen
+//Test case to 
+* verify forename, surname, post code is displayed in accounts screen 
+* verify the fields forename, surname, post code is displayed in accounts screen
 
 
 https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2017/10/Test-Case-Example1.jpg
