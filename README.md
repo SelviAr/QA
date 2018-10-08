@@ -1,4 +1,31 @@
 
+https://github.com/slawekradzyminski/AwesomeTesting
+https://github.com/mojoaxel/awesome-regression-testing
+
+
+https://github.com/marmelab/awesome-rest
+
+
+https://github.com/TheJambo/awesome-testing
+
+
+https://github.com/atinfo/awesome-test-automation
+
+https://github.com/crazy-canux/awesome-testing
+
+https://github.com/ZoranPandovski/awesome-testing-tools
+
+https://github.com/crazy-canux/awesome-testing
+https://github.com/danibram/mocker-data-generator
+https://github.com/AskNowQA/QA-Tutorial
+https://github.com/andriisoldatenko/awesome-performance-testing
+
+https://github.com/coliff/awesome-website-testing-tools
+
+https://github.com/sahin/awesome-ab-testing
+
+
+
 https://www.pinterest.com/pin/73113193921257363/?lp=true
 
 # Worldwide Software Testing Conferences
