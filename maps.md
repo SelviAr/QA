@@ -1,5 +1,8 @@
 
 
+## Mobile Testing
+http://apps.testinsane.com/mindmaps/uploads/html/Mobile%20Testing_files/images/Mobile%20Testing.jpg
+
 ## Defect Life Cycle
 ![](https://www.guru99.com/images/1-2015/012715_0802_BugLifeCycl1.png)
 
