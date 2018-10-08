@@ -1,4 +1,11 @@
 
+1. General 
+2. Web Testing
+3. Mobile Testing
+4. Security Testing
+
+
+
 Test Planning Model
 http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png
 
