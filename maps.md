@@ -1,5 +1,8 @@
 
 
+## Defect Life Cycle
+![](https://www.guru99.com/images/1-2015/012715_0802_BugLifeCycl1.png)
+
 ## Bug
 ![](http://apps.testinsane.com/mindmaps/uploads/50%20Bugs%20-%20Test%20Ideas%20-%20Software%20Testing%20-%20Test%20Insane.png)
 
