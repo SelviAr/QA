@@ -1,4 +1,4 @@
-
+https://github.com/ligurio/awesome-software-quality
 # Software testing principles
 
 ![1](https://i2.wp.com/letzdotesting.com/wp-content/uploads/2016/06/Seven-Principles-1.png)
