@@ -1,4 +1,5 @@
 
+
 1. General 
 2. Web Testing
 3. Mobile Testing
@@ -6,8 +7,15 @@
 
 
 
-Test Planning Model
-http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png
+* [Test Planning Model](http://apps.testinsane.com/mindmaps/uploads/TestPlanningModel.png)
+
+Basics of Cross Browser Testing (Get started)
+http://apps.testinsane.com/mindmaps/uploads/Cross%20Browser%20Compatibility%20Testing%20Basics%20-%20TestInsane%20-%20Santhosh%20Tuppad.png
+
+
+Cookie Testing - A smart way to test cookies
+http://apps.testinsane.com/mindmaps/uploads/Cookie%20Testing%20-%20Web%20and%20Mobile%20-%20Pranav%20KS%20-%20TestInsane%20.png
+
 
 
 Communicating Testing During Software Development
