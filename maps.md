@@ -1,3 +1,114 @@
+# How to test text fields?
+http://apps.testinsane.com/mindmaps/uploads/TestInsane%20-%20Software%20Testing%20-%20How%20to%20Test%20Text%20Fields.png
+
+Feature comparison of iOS devices
+http://apps.testinsane.com/mindmaps/uploads/iPhone%20Series.png
+
+
+UI Design Aspects - iOS Mobile App Testing
+http://apps.testinsane.com/mindmaps/uploads/UI%20Design%20Aspects%20-%20iOS%20.png
+
+Vulnerability Assessment Model
+http://apps.testinsane.com/mindmaps/uploads/Vulnerability%20assessment%20model.png
+
+
+Testing Tools To Test Better
+http://apps.testinsane.com/mindmaps/uploads/Testing%20tools.png
+
+Web App - Pen Testing - Practice Lab
+http://apps.testinsane.com/mindmaps/uploads/Web%20App%20-%20Pen%20Testing%20-%20Practice%20Lab.png
+
+Smart Mission Focussed Web Testing With Addons & Tools
+http://apps.testinsane.com/mindmaps/uploads/Smart%20Mission%20Focussed%20%20Web%20Testing%20With%20Add-ons%20Tools.png
+
+Sensitive Data Exposure
+http://apps.testinsane.com/mindmaps/Uploads/Sensitive%20Data%20Exposure.png
+
+Backup
+http://apps.testinsane.com/mindmaps/Uploads/Backup.png
+
+Translation
+http://apps.testinsane.com/mindmaps/Uploads/Translation.png
+
+Web Testing Strategy
+http://apps.testinsane.com/mindmaps/Uploads/Secret%20ingredients%20for%20Web%20Test%20Design.png
+
+
+LONG FUN CUP Mobile App Test Coverage
+http://apps.testinsane.com/mindmaps/Uploads/LONG%20FUN%20CUP.png
+
+Elicitation - Information Gathering
+http://apps.testinsane.com/mindmaps/Uploads/Elicitation%20-%20Information%20Gathering.png
+
+Security Testing Tools
+http://apps.testinsane.com/mindmaps/Uploads/Security%20Testing%20Tools.png
+
+Test Heuristics - Google Chrome Web Browser
+http://apps.testinsane.com/mindmaps/Uploads/Test%20Heuristics%20Chrome%20Web%20Browser.png
+
+CAPTCHA Testing
+
+http://apps.testinsane.com/mindmaps/Uploads/CAPTCHA%20Testing.png
+
+E-mail related tests for web applications
+http://apps.testinsane.com/mindmaps/Uploads/E-mail%20Testing%20For%20Web%20Applications.png
+
+Web Security Testing Checklist
+http://apps.testinsane.com/mindmaps/Web-Security-Testing-Checklist
+
+Mobile Testing In a Nutshell
+http://apps.testinsane.com/mindmaps/Mobile-Testing-In-a-Nutshell
+
+Bug Reporting
+http://apps.testinsane.com/mindmaps/uploads/Bug%20Reporting%20Mindmap.png
+
+iOS Apps Testing
+http://apps.testinsane.com/mindmaps/Uploads/iOS%20App%20Testing.png
+
+Web Accessibility - Section 508 Testing
+http://apps.testinsane.com/mindmaps/Uploads/Section%20508%20Checklist.png
+
+Accessibility Testing Tools
+http://apps.testinsane.com/mindmaps/Uploads/Accessibility%20Testing%20Tools.png
+
+
+Audio Accessibility Tests
+http://apps.testinsane.com/mindmaps/Uploads/Audio%20Accessibility.png
+
+
+Quality Criteria Heuristics
+http://apps.testinsane.com/mindmaps/Uploads/Heuristic%20for%20%20Quality%20Criteria.png
+
+Quick learning about HTTP
+http://apps.testinsane.com/mindmaps/Uploads/HTTP%20Hypertext%20Transfer%20Protocol.png
+
+Installation Testing
+http://apps.testinsane.com/mindmaps/Uploads/Installation.png
+
+Uninstallation Testing
+http://apps.testinsane.com/mindmaps/Uploads/Un-installation.png
+
+Laws for the web
+http://apps.testinsane.com/mindmaps/Uploads/Laws%20for%20The%20Web.png
+
+How to test passwords?
+http://apps.testinsane.com/mindmaps/Uploads/Passwords.png
+
+How to test Search feature?
+http://apps.testinsane.com/mindmaps/Uploads/Search.png
+
+How to test subscribe feature?
+http://apps.testinsane.com/mindmaps/Uploads/Subscription.png
+
+How to test login feature?
+http://apps.testinsane.com/mindmaps/Uploads/Test%20Ideas%20for%20LOGIN.png
+
+
+Usability Tests
+http://apps.testinsane.com/mindmaps/Uploads/Usability%20Tests.png
+
+Mobile Phone Battery Related Tests
+http://apps.testinsane.com/mindmaps/Mobile-Phone-Battery-Related-Tests
 
 
 
