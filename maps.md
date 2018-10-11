@@ -1,4 +1,9 @@
 
+http://www.talesoftesting.com/uploads/3/9/4/5/39452505/screen-shot-2018-10-09-at-15-33-22_orig.png
+
+http://www.talesoftesting.com/uploads/3/9/4/5/39452505/screen-shot-2018-10-09-at-20-31-52_orig.png
+
+
 1. General 
 2. Web Testing
 3. Mobile Testing
