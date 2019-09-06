@@ -1,3 +1,12 @@
+
+![1](https://camo.githubusercontent.com/0acd69c1efb1918d79a29f3f40901d0e2cc9fc77/68747470733a2f2f692e696d6775722e636f6d2f543153724c57722e706e673f32)
+
+
+![1](https://camo.githubusercontent.com/0acd69c1efb1918d79a29f3f40901d0e2cc9fc77/68747470733a2f2f692e696d6775722e636f6d2f543153724c57722e706e673f32)
+![1](https://camo.githubusercontent.com/f7eba78f88100d8f7e6ddaa8adce9f04c3bacabc/68747470733a2f2f692e696d6775722e636f6d2f486263395866472e706e67)
+
+
+
 https://github.com/ligurio/awesome-software-quality
 # Software testing principles
 
