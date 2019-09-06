@@ -1,4 +1,16 @@
 
+# QA mindset
+* analytical thinking
+* critical thinking (question everything)
+* troubleshooting expertise
+* attention to detail
+* systematic approach in solving problems
+* at least basic programming knowledge
+* soft-skills
+* adaptable to changing priorities
+* able to communicate well both within and outside the QA team
+* firm, positive and blameless attitude
+
 ![1](https://camo.githubusercontent.com/0acd69c1efb1918d79a29f3f40901d0e2cc9fc77/68747470733a2f2f692e696d6775722e636f6d2f543153724c57722e706e673f32)
 
 
