@@ -35,6 +35,7 @@ https://github.com/marmelab/awesome-rest
 
 https://github.com/TheJambo/awesome-testing
 
+https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 
 https://github.com/atinfo/awesome-test-automation
 
